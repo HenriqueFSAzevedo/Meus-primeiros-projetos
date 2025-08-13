@@ -15,7 +15,7 @@ print('Dois símbolos.')
 sleep(1)
 print('Gerando senha')
 sleep(1)
-for e in range(0,5):
+for e in range(0,3):
     print(' . ')
     sleep(1)
 mai = ('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z')
